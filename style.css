@@ -1,0 +1,141 @@
+.container {
+    width: 1300px;
+    margin: auto;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(24, 24, 206);
+    animation:alternate-reverse 2s;
+    color: rgb(242, 242, 247);
+}
+
+.header-wrapper .header-logo {
+
+    width: 182px;
+    height: 90px;
+    column-rule-color: white;
+    background-color: rgb(92, 92, 215);
+
+    font-size: xx-large;
+
+}
+
+
+.nav-item {
+    padding: 20px;
+    width: 200px;
+    height: 90px;
+    font-size: large;
+    display: inline;
+}
+
+a {
+    color: white;
+}
+
+.nav-bar {
+    align-items: center;
+}
+
+.banner-wrapper {
+    background-color: rgb(116, 44, 189)
+}
+
+.banner-flex-container {
+
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.txt-heading {
+    margin: auto;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: blue;
+
+
+}
+
+.txt {
+    color: white;
+    font-size: 22px;
+    background-color: blue;
+}
+
+.text-area {
+    width: 50%;
+    background-color: blue;
+}
+
+.banner .image-area {
+    width: 100%;
+    padding-left: 200PX;
+    background-color: blue;
+   
+}
+
+.banner .image {
+    width: 40%;
+    animation:forwards;
+
+    
+
+}
+
+.about-wrapper {
+    height: 620px;
+    display: flex;
+}
+
+.about-content {
+    padding-top: 100px;
+    width: 560px;
+    height: 460px;
+}
+
+.about-content1 {
+    font-weight: bold;
+    font-size: 30px;
+    font-style: arial;
+    color: white;
+}
+
+.about-content2 {
+    font-size: 20px;
+}
+
+.about-content3 {
+    line-height: 35px;
+    font-size: 20px;
+}
+
+.about-image {
+    padding-top: 130px;
+}
+
+.read-more {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.statistics-wrapper {
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+}
+
+.statistics-wrapper .statistics-item {
+    display: flex;
+    height: 150px;
+    align-items: center;
+    font-size: xx-large;
+    color: white;
+}
+.services{
+    
+}
